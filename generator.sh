@@ -1,7 +1,7 @@
 #!/bin/bash
 mkdir -p out
 
-for i in $(seq 1 689); do #inserire da 1 al numero di page
+for i in $(seq 1 689); do 
 
     page=`printf "%04d" $i`;
     
