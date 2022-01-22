@@ -10,8 +10,8 @@ import requests
 from PIL import Image
 from io import StringIO
 
-nomeLibro=""
-numeroPagine=
+nomeLibro=""  #edit here
+numeroPagine= #edit here
 
 
 
